@@ -1,4 +1,4 @@
-Java Maven Jersey3 Test Demo
+Java Maven Jersey3 Demo
 ====================================
 
 原来Java已经提供了足够好的基建来对api进行测试了
@@ -9,3 +9,5 @@ Java Maven Jersey3 Test Demo
 mvn clean package
 java -jar target/demo.jar
 ```
+
+Then Visit: http://localhost:8080/hello
